@@ -2,6 +2,9 @@
 
 This repository includes Ansible-Playbook to install and start CloudWatch Agent to a Linux based EC2 instance and a configuration JSON file to collect some crucial metrics from it.
 
+## For further information refer:
+http://code-ogre.com/2018/06/11/cloudwatch-agent-installation-to-ec2-instances-with-ansible/
+
 ## Ansible-Playbook:
 
 ```yaml
