@@ -1,5 +1,6 @@
 # CloudWatchAgentInstallationWithAnsible
-This repository includes Ansible-Playbook to install and start CloudWatch Agent to a Linux based EC2 instance.
+
+This repository includes Ansible-Playbook to install and start CloudWatch Agent to a Linux based EC2 instance and a configuration JSON file to collect some crucial metrics from it.
 
 ## Ansible-Playbook:
 
