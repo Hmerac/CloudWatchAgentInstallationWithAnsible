@@ -5,7 +5,7 @@ This repository includes Ansible-Playbook to install and start CloudWatch Agent 
 Please check your region and environments, change the variables in script if needed.
 
 ## For further information refer:
-http://code-ogre.com/2018/06/11/cloudwatch-agent-installation-to-ec2-instances-with-ansible/
+https://www.devopsful.com/2018/06/11/cloudwatch-agent-installation-to-ec2-instances-with-ansible/
 
 ## Ansible-Playbook:
 
